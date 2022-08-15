@@ -1,3 +1,3 @@
 # Monsters Rolodex
 
-This is demo: [Live:](https://github.com/facebook/create-react-app).
+This is demo: [Live:](http://monsters-yard.surge.sh/).
